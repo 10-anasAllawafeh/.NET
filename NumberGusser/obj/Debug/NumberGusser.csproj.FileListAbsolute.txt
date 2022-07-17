@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\NumberGusser\bin\Debug\NumberGusser.exe.config
+C:\Users\dell\source\repos\NumberGusser\bin\Debug\NumberGusser.exe
+C:\Users\dell\source\repos\NumberGusser\bin\Debug\NumberGusser.pdb
+C:\Users\dell\source\repos\NumberGusser\obj\Debug\NumberGusser.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\NumberGusser\obj\Debug\NumberGusser.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\NumberGusser\obj\Debug\NumberGusser.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\NumberGusser\obj\Debug\NumberGusser.exe
+C:\Users\dell\source\repos\NumberGusser\obj\Debug\NumberGusser.pdb
+C:\Users\dell\source\repos\.NET\NumberGusser\bin\Debug\NumberGusser.exe.config
+C:\Users\dell\source\repos\.NET\NumberGusser\bin\Debug\NumberGusser.exe
+C:\Users\dell\source\repos\.NET\NumberGusser\bin\Debug\NumberGusser.pdb
+C:\Users\dell\source\repos\.NET\NumberGusser\obj\Debug\NumberGusser.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\.NET\NumberGusser\obj\Debug\NumberGusser.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\.NET\NumberGusser\obj\Debug\NumberGusser.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\.NET\NumberGusser\obj\Debug\NumberGusser.exe
+C:\Users\dell\source\repos\.NET\NumberGusser\obj\Debug\NumberGusser.pdb
